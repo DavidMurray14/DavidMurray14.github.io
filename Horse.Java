@@ -29,12 +29,12 @@ public class Horse {
 public class Main {
     public static void main(String[] args) {
         Horse myHorse = new Horse("Emmitt", 2010); //Horse one
-         System.out.println("Horse 1 : " + myHorse.name + "Birth year " + myHorse.age());
+         System.out.println("Horse 1 : " + myHorse.name + "Age year " + myHorse.age());
 
-        Horse myHorse = new Horse("David", 1776); //Horse two
-            System.out.println("Horse 2 : " + myHorse.name + "Birth year " + myHorse.age());
+        Horse otherHorse = new Horse("David", 1776); //Horse two
+            System.out.println("Horse 2 : " + myHorse.name + "Age " + myHorse.age());
 
-        Horse myHorse = new Horse("Murray", 1498); //And horse three
-            System.out.println("Horse 3 : " + myHorse.name + "Birth year " + myHorse.age());
+        Horse anotherHorse = new Horse("Murray", 1498); //And horse three
+            System.out.println("Horse 3 : " + myHorse.name + "Age year " + myHorse.age());
     }
 }
