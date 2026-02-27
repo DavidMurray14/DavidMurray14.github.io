@@ -1,0 +1,42 @@
+//This is the data the code reads.
+_
+Emmitt:
+
+Phone Number: 208-739-3139
+Email: emmitt.murray@malad.us
+Name: Emmitt
+Money: $2
+Car: Imaginary
+_
+David:
+
+Phone Number: 208-123-4567
+Email: DavidDaBruther@gmail.com
+Name: David
+Money: $150
+Car: Focus
+_
+Murray:
+
+Phone Number: 208-456-7890
+Email: Murray#1@gmail.com
+Name: Murray
+Money: $212
+Car: Lambo
+_
+Adam:
+
+Phone Number: 123-456-7890
+Email: AdamH@gmail.com
+Name: Adam
+Money: $156
+Car: Mercedes
+_
+Hilt:
+
+Phone Number: 123-123-123
+Email: SenorHilter@gmail.com
+Name: Hilt
+Money: $123
+Car: M5
+_
