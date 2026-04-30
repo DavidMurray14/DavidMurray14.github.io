@@ -1,5 +1,6 @@
-package CardGameCode; //CardGameCode made by Emmitt Murray.
-//Code for the deck of cards.
+// CardGameCode made by Emmitt Murray.
+// Code for the deck of cards.
+package CardGameCode;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

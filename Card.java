@@ -1,5 +1,6 @@
-package CardGameCode; //CardGameCode made by Emmitt Murray.
-//Code for individual cards.
+// CardGameCode made by Emmitt Murray.
+// Code for individual cards.
+package CardGameCode;
 public class Card {
     public final String suit;
     public final String rank;
